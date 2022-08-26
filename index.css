@@ -175,6 +175,9 @@ body{
 .footer .images{
     margin-left: 9rem;
     cursor: pointer;
+    
+}
+.footer .images img{
     margin:0.5rem;
 }
 .attribution, .attribution a{
