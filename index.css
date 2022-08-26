@@ -171,6 +171,7 @@ body{
 .footer a{
     padding: 0.5rem;
     cursor: pointer;
+    font-family: sans-serif;
 }
 .footer .images{
     margin-left: 9rem;
@@ -178,7 +179,7 @@ body{
     
 }
 .footer .images img{
-    margin:0.5rem;
+    margin:0.2rem;
 }
 .attribution, .attribution a{
     text-align: center;
